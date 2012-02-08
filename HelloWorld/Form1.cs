@@ -14,6 +14,8 @@ namespace HelloWorld
         public Form1()
         {
             InitializeComponent();
+
+            int nTest = 0;
         }
     }
 }
